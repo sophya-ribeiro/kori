@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_500">#053BA5</color>
-    <color name="purple_700">#769DED</color>
+    <color name="purple_500">#05181e</color>
+    <color name="purple_700">#05181e</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="primary">#053BA5</color>
-    <color name="secondary">#769DED</color>
+    <color name="primary">#05181e</color>
+    <color name="secondary">#072731</color>
+    <color name="background">#F4F4F4</color>
+
+    <color name="card_tokyo">#be1e1e</color>
+    <color name="card_kyoto">#10537c</color>
+    <color name="card_osaka">#128510</color>
+    <color name="card_nara">#6210c7</color>
 </resources>

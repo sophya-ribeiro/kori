@@ -1,6 +1,11 @@
 <resources>
+
+    <!--Fragmentos-->
     <string name="app_name">Kori</string>
     <string name="title_home">Início</string>
     <string name="title_dashboard">Cidades</string>
     <string name="title_notifications">Mapa</string>
+
+    <!--Home-->
+    <string name="home_title">Bem vindo(a)!</string>
 </resources>
