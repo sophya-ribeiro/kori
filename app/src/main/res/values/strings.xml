@@ -3,9 +3,17 @@
     <!--Fragmentos-->
     <string name="app_name">Kori</string>
     <string name="title_home">Início</string>
-    <string name="title_dashboard">Cidades</string>
-    <string name="title_notifications">Mapa</string>
+    <string name="title_cities">Cidades</string>
+    <string name="title_map">Mapa</string>
 
     <!--Home-->
     <string name="home_title">Bem vindo(a)!</string>
+
+    <!--Cities-->
+    <string-array name="cities_array">
+        <item>Tóquio</item>
+        <item>Kyoto</item>
+        <item>Osaka</item>
+        <item>Nara</item>
+    </string-array>
 </resources>

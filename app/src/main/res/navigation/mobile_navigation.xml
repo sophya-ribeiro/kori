@@ -13,13 +13,13 @@
 
     <fragment
         android:id="@+id/navigation_cities"
-        android:name="com.example.kori.ui.cities.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:name="com.example.kori.ui.cities.CitiesFragment"
+        android:label="@string/title_cities"
+        tools:layout="@layout/fragment_cities" />
 
     <fragment
         android:id="@+id/navigation_map"
-        android:name="com.example.kori.ui.map.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:name="com.example.kori.ui.map.MapFragment"
+        android:label="@string/title_map"
+        tools:layout="@layout/fragment_map" />
 </navigation>
