@@ -2,13 +2,14 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    android:padding="16dp"
-    android:background="#EEEEEE">
+    android:padding="18dp"
+    android:background="#E5EEF4"
+    >
 
     <ImageView
         android:id="@+id/city_image"
         android:layout_width="match_parent"
-        android:layout_height="280dp"
+        android:layout_height="255dp"
         android:scaleType="centerCrop"
         android:src="@drawable/background_tokyo" />
 
@@ -41,11 +42,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
-        android:backgroundTint="#C3C3C3"
+        android:backgroundTint="#7AB4C5"
         android:padding="10dp"
         android:text="@string/button_title"
         android:textColor="@color/primary"
-        android:textSize="12sp" />
+        android:textSize="11sp" />
 </LinearLayout>
 
 

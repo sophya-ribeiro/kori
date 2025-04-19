@@ -16,7 +16,7 @@
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="250dp"
-            android:layout_marginBottom="20dp"
+            android:layout_marginBottom="10dp"
             android:background="@drawable/home_background"
             android:scaleType="centerCrop">
 
@@ -62,14 +62,14 @@
                 android:focusable="true"
                 android:gravity="center"
                 android:orientation="vertical"
-                android:padding="50dp">
+                android:padding="30dp">
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Tóquio"
                     android:textColor="@android:color/white"
-                    android:textSize="24sp"
+                    android:textSize="20sp"
                     android:textStyle="bold" />
 
                 <TextView
@@ -91,14 +91,14 @@
                 android:focusable="true"
                 android:gravity="center"
                 android:orientation="vertical"
-                android:padding="50dp">
+                android:padding="30dp">
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Kyoto"
                     android:textColor="@android:color/white"
-                    android:textSize="24sp"
+                    android:textSize="20sp"
                     android:textStyle="bold" />
 
                 <TextView
@@ -120,14 +120,14 @@
                 android:focusable="true"
                 android:gravity="center"
                 android:orientation="vertical"
-                android:padding="50dp">
+                android:padding="30dp">
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Osaka"
                     android:textColor="@android:color/white"
-                    android:textSize="24sp"
+                    android:textSize="20sp"
                     android:textStyle="bold" />
 
                 <TextView
@@ -149,14 +149,14 @@
                 android:focusable="true"
                 android:gravity="center"
                 android:orientation="vertical"
-                android:padding="50dp">
+                android:padding="30dp">
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Nara"
                     android:textColor="@android:color/white"
-                    android:textSize="24sp"
+                    android:textSize="20sp"
                     android:textStyle="bold" />
 
                 <TextView
