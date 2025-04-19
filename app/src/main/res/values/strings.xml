@@ -10,10 +10,13 @@
     <string name="home_title">Bem vindo(a)!</string>
 
     <!--Cities-->
+    <string name="button_title">Ouvir descrição</string>
+
     <string-array name="cities_array">
         <item>Tóquio</item>
         <item>Kyoto</item>
         <item>Osaka</item>
         <item>Nara</item>
     </string-array>
+
 </resources>

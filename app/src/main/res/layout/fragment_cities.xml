@@ -1,31 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp">
 
-    <!-- Spinner para Seleção de Cidade -->
+
     <Spinner
         android:id="@+id/city_spinner"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content" />
 
-    <!-- Lista de pontos turísticos -->
-    <ListView
-        android:id="@+id/city_list"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"/>
-
-    <!-- Grid de imagens -->
     <GridView
         android:id="@+id/city_grid"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:columnWidth="80dp"
-        android:verticalSpacing="10dp"
-        android:horizontalSpacing="10dp"
-        android:gravity="center"/>
-
+        android:layout_height="wrap_content"
+        android:numColumns="1"
+        android:verticalSpacing="8dp"
+        android:horizontalSpacing="8dp"
+        android:layout_marginTop="16dp" />
 </LinearLayout>
