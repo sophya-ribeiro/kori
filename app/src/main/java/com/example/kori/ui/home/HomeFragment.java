@@ -38,6 +38,7 @@ public class HomeFragment extends Fragment {
                 .setSelectedItemId(R.id.navigation_cities);
     }
 
+
     @Override
     public void onDestroyView() {
         super.onDestroyView();
